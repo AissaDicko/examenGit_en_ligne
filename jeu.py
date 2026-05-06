@@ -26,7 +26,7 @@ def question_quiz():
             "answer": "A"
         },
         {
-            "question": "Quelle couleur est souvent appelée "rose poupée" ?",
+            "question": "Quelle couleur est souvent appelée \"rose poupée\" ?",
             "choices": ["A) Émeraude", "B) Fuchsia", "C) Indigo"],
             "answer": "B"
         },
